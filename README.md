@@ -2,9 +2,9 @@ Vanilla - Traduction française
 ============================================
 http://vanillaforums.org/addon/french-locale
 
-Dernière version: 2.0.18.1 (Novembre 2011)
+Dernière version: 2.0.18.2 (5 Juin 2012)
 -----------
-Cette version est obsolète et sera remplacée par la version 2.0.18.4 qui sera publié au plus tard le 15/04/2012.
+Cette version est une version en cours de finalisation, il se peut donc que certaines parties ne soient pas traduites.
 
 description
 -----------
