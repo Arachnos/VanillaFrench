@@ -2,6 +2,14 @@ Vanilla - Traduction française
 ============================================
 http://vanillaforums.org/addon/french-locale
 
+  IMPORTANT
+============================================
+Cette traduction est désormais arrêtée, puisque les traductions s'effectuent désormais sur le site Transifex. Vous pouvez téléchargez la traduction française via l'addon <a href="http://vanillaforums.org/addon/vf_fr_fr-locale">French Transifex</a>
+
+
+Anciennes notes
+============================================
+
 Dernière version: 2.0.18.2 (5 Juin 2012)
 -----------
 Cette version est une version en cours de finalisation, il se peut donc que certaines parties ne soient pas traduites.
