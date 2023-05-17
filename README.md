@@ -1,3 +1,7 @@
+> **Warning**
+> This repository has been archived and the translations are now maintained in Transifex
+> See https://success.vanillaforums.com/kb/articles/231-translating-vanilla-in-github for more informations
+
 Vanilla - Traduction française
 ============================================
 http://vanillaforums.org/addon/french-locale
